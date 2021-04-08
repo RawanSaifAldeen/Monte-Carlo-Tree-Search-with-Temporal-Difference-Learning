@@ -2,7 +2,6 @@
 A research project done at the end of the distributed AI module (MSc. Data Science @ Lancaster University)
 
 Abstract:
-
 TD-UCT is a variation of the on-policy planning
 algorithm MCTS which combines UCB1 and TD learning when
 performing the tree policy of the tree search, this is done as an
