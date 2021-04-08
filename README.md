@@ -14,6 +14,6 @@ for the optimal value of wtd when applied to gym’s Frozen Lake
 game. It was found that wtd = 1 gives the best performance
 where all episodes were won when using 600 simulations per move
 and above, while the average number of steps before winning an
-episode was found to reach 6:260:027 steps at 1000 simulations
+episode was found to reach 6.26+-0.027 steps at 1000 simulations
 per move, where 6 is the minimum number of steps to reach the
 goal.
