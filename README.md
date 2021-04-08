@@ -1,5 +1,5 @@
 # Monte-Carlo-Tree-Search-with-Temporal-Difference-Learning
-A research project done as at the end of the distributed AI module (MSc. Data Science @ Lancaster University)
+A research project done at the end of the distributed AI module (MSc. Data Science @ Lancaster University)
 
 Abstract:
 TD-UCT is a variation of the on-policy planning
